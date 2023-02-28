@@ -12,4 +12,6 @@ Admin Credential
 email_id: app_admin@gmail.com
 password: AddAdmin
 
+Attached postgres database dump in main folder.
+
 REST API with Express, TypeScript and Swagger
